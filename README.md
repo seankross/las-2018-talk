@@ -7,5 +7,5 @@
 A talk I presented at the fifth Learning at Scale conference in London, England
 about a paper of the same name.
 
-- [Link to the paper](http://seankross.com/las-2018/)
+- [Link to the paper](http://seankross.com/las-2018/).
 - [Link to PDF of slides](http://seankross.com/las-2018-talk/talk.pdf).
