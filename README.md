@@ -4,7 +4,7 @@
 
 ### 2018-06-25
 
-A talk a presented at the fifth Learning at Scale conference in London, England
+A talk I presented at the fifth Learning at Scale conference in London, England
 about a paper of the same name.
 
 - [Link to the paper](http://seankross.com/las-2018/)
